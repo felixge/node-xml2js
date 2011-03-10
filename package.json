@@ -4,6 +4,6 @@
   "version": "0.1.5",
   "author": "maqr <maqr.lollerskates@gmail.com>",
   "keywords": ["xml", "json"],
-  "directories": { "lib": "./lib" },
+  "main": "./lib/xml2js",
   "dependencies" : { "sax" : ">=0.1.1" }
 }
